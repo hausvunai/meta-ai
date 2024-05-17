@@ -2,6 +2,8 @@
 
 Artificial Intelligence and Machine Learning tools layer for Yocto.
 
+> **Note:** This layer is still under development and is not yet ready for production use.
+
 ## Introduction
 
 This layer contains Yocto recipes for building AI and ML tools for embedded systems.
